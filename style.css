@@ -1,0 +1,66 @@
+body {
+  background: orange;
+}
+
+.dropdown-title {
+  width: 150px;
+  border: 1px solid #666;
+}
+
+.dropdown-list {
+  width: 150px;
+  display: none;
+}
+
+.dropdown-list li {
+  border: 1px solid #666;
+}
+
+.container {
+  width: 600px;
+  height: 500px;
+  background: white;
+  margin: 0 auto;
+}
+
+#checkbox {
+  display: none;
+}
+
+.checkbox {
+  border: 1px solid #666;
+  display: inline-block;
+  background: white;
+  width: 20px;
+  height: 20px;
+}
+
+.tabs {
+  width: 400px;
+  background: purple;
+}
+
+.tab {
+  display: inline-block;
+}
+
+.content-1 {
+  width: 400px;
+  height: 200px;
+  background: blue;
+  display: block;
+}
+
+.content-2 {
+  width: 400px;
+  height: 200px;
+  background: red;
+  display: none;
+}
+
+.content-3 {
+  width: 400px;
+  height: 200px;
+  background: yellow;
+  display: none;
+}
